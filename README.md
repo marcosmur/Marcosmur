@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Marcos Murphy 👋
 
-<!--
-**marcosmur/Marcosmur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un **Full Stack Developer** especializado en **Frontend**. Actualmente estoy buscando nuevas oportunidades laborales.
 
-Here are some ideas to get you started:
+## 📫 Contacto  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 **Correo:** [marcosmurphy11@gmail.com](mailto:marcosmurphy11@gmail.com)  
+- 📍 **Ubicación:** Mercedes, Buenos Aires, Argentina  
+- 🔗 **LinkedIn:** [Marcos Murphy]([[https://www.linkedin.com/in/marcosmurphy](https://www.linkedin.com/in/marcos-murphy-3a6071321/](https://www.linkedin.com/in/marcos-murphy-3a6071321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)))  
+
+## 🚀 Tecnologías
+
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3
+- **Backend:** Node.js, Express.js, MongoDB
+- **Herramientas:** Git, GitHub, Docker
+
+---
+
+Gracias por visitar mi perfil. ¡Conéctate conmigo! 🚀
