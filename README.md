@@ -6,7 +6,8 @@ Soy un **Full Stack Developer** especializado en **Frontend**. Actualmente estoy
 
 - 📧 **Correo:** [marcosmurphy11@gmail.com](mailto:marcosmurphy11@gmail.com)  
 - 📍 **Ubicación:** Mercedes, Buenos Aires, Argentina  
-- 🔗 **LinkedIn:** [Marcos Murphy]([[https://www.linkedin.com/in/marcosmurphy](https://www.linkedin.com/in/marcos-murphy-3a6071321/](https://www.linkedin.com/in/marcos-murphy-3a6071321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)))  
+- 🔗 **LinkedIn:** [Visita mi perfil de LinkedIn](https://www.linkedin.com/in/marcos-murphy-3a6071321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  
+
 
 ## 🚀 Tecnologías
 
