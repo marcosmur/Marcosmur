@@ -11,9 +11,10 @@ Soy un **Full Stack Developer** especializado en **Frontend**. Actualmente estoy
 
 ## 🚀 Tecnologías
 
-- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3
+- **Frontend:** React.js, Next.js, Tailwind CSS, HTML5, CSS3, **JavaScript**
 - **Backend:** Node.js, Express.js, MongoDB
 - **Herramientas:** Git, GitHub, Docker
+
 
 ---
 
